@@ -1,0 +1,12 @@
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\bin\Debug\net7.0\DDD.Shop.Common.deps.json
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\bin\Debug\net7.0\DDD.Shop.Common.dll
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\bin\Debug\net7.0\DDD.Shop.Common.pdb
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.csproj.AssemblyReference.cache
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.AssemblyInfoInputs.cache
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.AssemblyInfo.cs
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.csproj.CoreCompileInputs.cache
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.dll
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\refint\DDD.Shop.Common.dll
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\DDD.Shop.Common.pdb
+D:\Projects\AkbarAhmadiSaray\net Core\DDD.Shop\DDD.Shop.Common\obj\Debug\net7.0\ref\DDD.Shop.Common.dll

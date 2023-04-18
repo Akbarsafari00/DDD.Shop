@@ -1,0 +1,17 @@
+﻿DDD.Shop.Api/bin
+DDD.Shop.Api/obj
+
+DDD.Shop.Application/bin
+DDD.Shop.Application/obj
+
+DDD.Shop.Domain/bin
+DDD.Shop.Domain/obj
+
+DDD.Shop.Domain.Core/bin
+DDD.Shop.Domain.Core/obj
+
+DDD.Shop.Infrastructure/bin
+DDD.Shop.Infrastructure/obj
+
+DDD.Shop.Common/bin
+DDD.Shop.Common/objs

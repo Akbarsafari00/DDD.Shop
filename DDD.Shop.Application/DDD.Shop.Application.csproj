@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DDD.Shop.Common\DDD.Shop.Common.csproj" />
+      <ProjectReference Include="..\DDD.Shop.Domain\DDD.Shop.Domain.csproj" />
+      <ProjectReference Include="..\DDD.Shop.Infrastructure\DDD.Shop.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>

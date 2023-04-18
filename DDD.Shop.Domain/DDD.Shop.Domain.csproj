@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Aggregates\OrderAggregate\Events" />
+      <Folder Include="Aggregates\OrderAggregate\Exceptions" />
+      <Folder Include="Services" />
+      <Folder Include="ValueObjects" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DDD.Shop.Domain.Core\DDD.Shop.Domain.Core.csproj" />
+    </ItemGroup>
+
+</Project>
